@@ -6,6 +6,8 @@ public class Student {
 
         System.out.println("MErhaba 1");
 
+        System.out.println("task 2");
+
 
     }
 }
